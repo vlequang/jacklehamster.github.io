@@ -14,7 +14,7 @@ if(window==top) {
             tr.appendChild(td);
             td.width = "33%";
             td.style.verticalAlign = "top";
-            td.innerHTML = '[<a href="..">&lt;&lt; Back</a>]'
+            td.innerHTML = '[<a href="..">&lt;&lt; Back to <i>'+'http://jacklehamster.github.io/'+reponame+'</i></a>]'
             + '<br>' + 'source code: '+
               (loc==""?'<a href="https://github.com/jacklehamster/'+reponame+'">'+reponame+'</a>':'<a href="https://github.com/jacklehamster/'+reponame+'/tree/gh-pages/'+loc+'">'+loc+'</a>');
             //  Mid cell
