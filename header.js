@@ -16,7 +16,7 @@ if(window==top) {
             td.style.verticalAlign = "top";
             td.innerHTML = '[<a href="..">&lt;&lt; Back</a>]'
             + '<br>' + 'source code: '+
-              (loc==""?'<a href="https://github.com/jacklehamster/'+reponame+'>'+reponame+'</a>':'<a href="https://github.com/jacklehamster/'+reponame+'/tree/gh-pages/'+loc+'">'+loc+'</a>');
+              (loc==""?'<a href="https://github.com/jacklehamster/'+reponame+'">'+reponame+'</a>':'<a href="https://github.com/jacklehamster/'+reponame+'/tree/gh-pages/'+loc+'">'+loc+'</a>');
             //  Mid cell
             var td = document.createElement("td");
             tr.appendChild(td);
