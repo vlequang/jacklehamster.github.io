@@ -1,5 +1,5 @@
 if(window==top) {
-    document.addEventListener("load",
+    document.body.addEventListener("load",
         function(e) {
             e.currentTarget.removeEventListener(e.type,arguments.callee);
             var reponame = window.location.href.split("http://jacklehamster.github.io/")[1].split("/")[0];
