@@ -1,2 +1,3 @@
 # jacklehamster.github.io
-Jack's home
+
+http://jacklehamster.github.io/
