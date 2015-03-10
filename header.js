@@ -17,7 +17,7 @@ if(window==top) {
             var backIcon = "http://pixabay.com/static/uploads/photo/2013/07/13/11/42/back-158491_640.png";
             
             td.innerHTML = 
-                (reponame==""?'':'[<a href=".."><img src='+backIcon+' title="http://jacklehamster.github.io/'+reponame+'"></a>]')+
+                (reponame==""?'':'[<a href=".."><img width=25 height=25 src='+backIcon+' title="http://jacklehamster.github.io/'+reponame+'"/></a>]')+
                 (reponame==""?'<a href="https://github.com/jacklehamster/jacklehamster.github.io">':loc==""?'<a href="https://github.com/jacklehamster/'+reponame+'">':'<a href="https://github.com/jacklehamster/'+reponame+'/tree/gh-pages/'+loc+'">')+
                 '<img title="Source Code" width=25 height=25 src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"/>'+
                 '</a>';
