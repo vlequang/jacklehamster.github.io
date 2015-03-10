@@ -15,10 +15,8 @@ if(window==top) {
             td.width = "33%";
             td.style.verticalAlign = "top";
             
-//    <a target="_blank" href="https://github.com/jacklehamster/firebase/tree/gh-pages/social-gamedev"><img title="Source Code" width=25 height=25 src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"/></a>
-            
             td.innerHTML = 
-                (reponame==""?'':'[<a href="..">&lt;&lt; Back to <i>'+'http://jacklehamster.github.io/'+reponame+'</i></a>]<br>')+
+                (reponame==""?'':'[<a href="..">&lt;&lt; <i>'+'http://jacklehamster.github.io/'+reponame+'</i></a>]<br>')+
                 (reponame==""?'<a href="https://github.com/jacklehamster/jacklehamster.github.io">':loc==""?'<a href="https://github.com/jacklehamster/'+reponame+'">':'<a href="https://github.com/jacklehamster/'+reponame+'/tree/gh-pages/'+loc+'">')+
                 '<img title="Source Code" width=25 height=25 src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"/>'+
                 '</a>';
