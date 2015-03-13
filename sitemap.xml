@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://jacklehamster.github.io/</loc>
+  <lastmod>2015-03-13T05:17:06+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/firebase/</loc>
+  <lastmod>2015-03-13T02:27:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/animation/</loc>
+  <lastmod>2015-03-13T18:12:54+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/youpi/</loc>
+  <lastmod>2015-03-10T16:58:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/youpi/?videoID=vbU2VXGjQj8&amp;start=4:24&amp;end=4:29.9</loc>
+  <lastmod>2015-03-10T16:58:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/firebase/social-gamedev/</loc>
+  <lastmod>2015-03-13T02:27:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/firebase/dynamic-image/</loc>
+  <lastmod>2015-03-13T02:27:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/firebase/image-reader/</loc>
+  <lastmod>2015-03-13T02:27:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/firebase/firebase-cam/</loc>
+  <lastmod>2015-03-13T02:27:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/firebase/world-canvas/</loc>
+  <lastmod>2015-03-13T02:27:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/firebase/data-table/</loc>
+  <lastmod>2015-03-13T02:27:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/firebase/poor-doggy/</loc>
+  <lastmod>2015-03-13T02:27:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/youpi/?videoID=2VzE8Ii12Js&amp;start=1:04.7&amp;end=1:18.3</loc>
+  <lastmod>2015-03-10T16:58:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/youpi/?videoID=Kaouy4QT9vE</loc>
+  <lastmod>2015-03-10T16:58:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/youpi/?videoID=Tp6HQCb70yM&amp;mute=1</loc>
+  <lastmod>2015-03-10T16:58:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/youpi/?videoID=ptFt1ffCFf0&amp;start=1:02&amp;end=1:11</loc>
+  <lastmod>2015-03-10T16:58:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jacklehamster.github.io/youpi/?videoID=%DEMOVIDEO&amp;start=%DEMOSTART&amp;end=%DEMOEND</loc>
+  <lastmod>2015-03-10T16:58:30+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
