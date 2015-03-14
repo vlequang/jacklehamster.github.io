@@ -2,7 +2,7 @@ if(window==top) {
     document.addEventListener("DOMContentLoaded",
         function(e) {
             e.currentTarget.removeEventListener(e.type,arguments.callee);
-            var reponame = window.location.href.split("http://jacklehamster.github.io/")[1].split("/")[0];
+            var reponame = window.location.href.split("jacklehamster.github.io/")[1].split("/")[0];
             var loc = window.location.href.split(reponame+"/")[1].split("/")[0];
             var table = document.createElement("table");
             table.width="100%";
