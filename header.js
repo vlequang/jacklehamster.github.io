@@ -1,4 +1,4 @@
-if(window==top && !window.noheader) {
+if(window==top) {
     document.addEventListener("DOMContentLoaded",
         function(e) {
             e.currentTarget.removeEventListener(e.type,arguments.callee);
@@ -37,5 +37,7 @@ if(window==top && !window.noheader) {
             td.style.verticalAlign = "top";
             td.innerHTML = '<a target="_blank" href="https://www.twitter.com/jacklehamster"><img title="@jacklehamster" style="margin:3px" width=18 height=18 src="https://g.twimg.com/Twitter_logo_blue.png"/></a>';
             document.body.insertBefore(table,document.body.firstChild);
+            if(window.noheader)
+                td.style.display = "none";
         });
 }
