@@ -5,6 +5,7 @@ if(window==top) {
             var reponame = window.location.href.split("jacklehamster.github.io/")[1].split("/")[0];
             var loc = window.location.href.split(reponame+"/")[1].split("/")[0];
             var table = document.createElement("table");
+            table.id = "header";
             table.width="100%";
             table.border = 0;
             var tr = document.createElement("tr");
