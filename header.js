@@ -1,4 +1,4 @@
-if(window==top) {
+if(window==top && !window.noheader) {
     document.addEventListener("DOMContentLoaded",
         function(e) {
             e.currentTarget.removeEventListener(e.type,arguments.callee);
