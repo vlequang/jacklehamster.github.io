@@ -7,8 +7,7 @@ if(window==top) {
             var table = document.createElement("table");
             table.id = "header";
             table.width="100%";
-            table.style.maxWidth = "";
-            table.style.backgroundColor="white";
+            table.style.maxWidth = "100%";
             table.border = 0;
             var tr = document.createElement("tr");
             table.appendChild(tr);
