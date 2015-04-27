@@ -37,7 +37,7 @@ if(window==top) {
             td.align = "right";
             td.style.verticalAlign = "top";
             td.innerHTML = '<a target="_blank" href="https://www.twitter.com/jacklehamster"><img title="@jacklehamster" style="margin:3px" width=18 height=18 src="https://g.twimg.com/Twitter_logo_blue.png"/></a>'+
-                '<iframe src="http://www.reddit.com/static/button/button1.html?url='+top.location.href+'"><iframe>';
+                '<iframe style="border:0px; height:22px" src="http://www.reddit.com/static/button/button1.html?url='+top.location.href+'"><iframe>';
             document.body.insertBefore(table,document.body.firstChild);
             if(window.noheader)
                 table.style.display = "none";
