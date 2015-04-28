@@ -36,8 +36,8 @@ if(window==top) {
             td.width = "33%";
             td.align = "right";
             td.style.verticalAlign = "top";
-            td.innerHTML = '<a class="twitter-share-button" href="https://twitter.com/share">Tweet</a>'+
-                '<iframe style="border:0px; height:22px" src="http://www.reddit.com/static/button/button1.html?url='+top.location.href+'"><iframe>';
+            td.innerHTML = '<a class="twitter-share-button" href="https://twitter.com/share">Tweet</a>&nbsp;'+
+                '<iframe style="border:0px; height:20px" src="http://www.reddit.com/static/button/button1.html?url='+top.location.href+'"><iframe>';
                 
 
             document.body.insertBefore(table,document.body.firstChild);
