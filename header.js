@@ -24,9 +24,7 @@ if(window==top) {
                 '<img title="Source Code" width=25 height=25 src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"/>'+
                 '</a>';
                 
-                
-                
-                
+
             //  Mid cell
             var td = document.createElement("td");
             tr.appendChild(td);
