@@ -22,7 +22,15 @@ if(window==top) {
                 (reponame==""?'':'<a href=".."><img width=25 height=25 src='+backIcon+' title="http://jacklehamster.github.io/'+reponame+'"/></a>')+
                 (reponame==""?'<a href="https://github.com/jacklehamster/jacklehamster.github.io">':loc==""?'<a href="https://github.com/jacklehamster/'+reponame+'">':'<a href="https://github.com/jacklehamster/'+reponame+'/tree/gh-pages/'+loc+'">')+
                 '<img title="Source Code" width=25 height=25 src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"/>'+
-                '</a>';
+                '</a>'+
+'<iframe src="https://ghbtns.com/github-btn.html?user=jacklehamster&repo='+reponame+'&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>'+
+'<iframe src="https://ghbtns.com/github-btn.html?user=jacklehamster&repo='+reponame+'&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>'+
+'<iframe src="https://ghbtns.com/github-btn.html?user=jacklehamster&repo='+reponame+'&type=fork&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>';
+                ;
+                
+                
+                
+                
             //  Mid cell
             var td = document.createElement("td");
             tr.appendChild(td);
